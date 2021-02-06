@@ -1,0 +1,23 @@
+body {
+    padding-top: 100px;
+    background-color: #90946c;
+  
+    
+}
+
+.container-fluid{
+    margin-top: 50px;
+    justify-content: center;
+    background-color: none;
+    text-align-last: center;
+}
+header{
+ align-content: center;
+ text-align: center;
+}
+
+.container mt-4 contato {
+    text-decoration-color: rgb(41, 16, 6);
+
+    align-items: center;
+}
